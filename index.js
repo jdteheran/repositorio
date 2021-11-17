@@ -1,7 +1,8 @@
 
 let numero = 8
 
-console.log(esPrimo(numero));
+console.log(esPrimo(numero + 1));
+console.log(esPrimo(numero + 5));
 
 function esPrimo(num) {
     let contDivisores = 0
