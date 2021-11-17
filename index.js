@@ -1,5 +1,5 @@
 
-let numero = 8
+let numero = 28
 
 console.log(esPrimo(numero + 1));
 console.log(esPrimo(numero + 5));
